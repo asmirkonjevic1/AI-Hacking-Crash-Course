@@ -51,7 +51,11 @@ Once you understand the basics of LLMs, it’s time to dive into the world of pr
 
 - [**Vulnus Ex Machina - AI Hacking Part 2 by rez0**](https://www.youtube.com/watch?v=krEzRUG8eWo&t=2s)
 
-- **Nahamcon 2025 AI Track**
+- [**Vulnus Ex Machina - AI Hacking Part 3 by rez0**]() - Comming SOON
+
+- [**We Won Google's AI Hacking Event in Tokyo - Main Takeaways (Ep.122)**](https://www.youtube.com/watch?v=T0N-H6B9r5g&t=1s)
+
+- **Nahamcon 2025 AI Track** - COMING SOON
     - [JHADDIX, REZ0, NAHAMSEC - OPENING KEYNOTE]()
     - [XSSDOCTOR - AI ASSISTED HACKING: MASTERING THE MAIN APP]()
     - [WUNDERWUZZI - SPAIWARE & MORE: ADVANCED PROMPT INJECTION EXPLOITS IN LLM APPS]()
