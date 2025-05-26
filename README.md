@@ -127,6 +127,8 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 
 - [Attacking AI by Jason Haddix](https://www.arcanum-sec.com/training/attacking-ai)
 
+---
+
 ## 💬 DISCORD SERVERS
 
 - [Learn Prompting Discord](https://discord.gg/xHYbueWV)
