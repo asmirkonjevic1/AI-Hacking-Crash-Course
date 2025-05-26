@@ -123,7 +123,7 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 
 ---
 
-## 💸 AI PAID COURSES
+## 💸 HACKING AI PAID COURSES
 
 - [Attacking AI by Jason Haddix](https://www.arcanum-sec.com/training/attacking-ai)
 
