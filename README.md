@@ -136,6 +136,7 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 
 ## 👷LEARN PROMPT ENGINEERING
 
+- [Prompt Engineering Guide by Learnprompting](https://learnprompting.org/docs/introduction)
 - [Introduction to Prompt Engineering by OpenAI](https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13)
 - [Advanced Prompt Engineering by OpenAI](https://academy.openai.com/public/videos/advanced-prompt-engineering-2025-02-13)
 - [Antropics Prompt Engineering Interactive Tutorial](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=150872633#gid=150872633)
