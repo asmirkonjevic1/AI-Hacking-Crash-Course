@@ -124,7 +124,9 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 - [Executive Offense - LLM Hacking PT 1!](https://executiveoffense.beehiiv.com/p/executive-offense-issue-10-start-hacking-llms)
 - [Executive Offense - LLM Hacking PT 2!](https://executiveoffense.beehiiv.com/p/executive-offense-llm-hacking-pt-2)
 - [LUPIN - We Hacked Google AI for $50,000](https://www.landh.tech/blog/20240304-google-hack-50000/)
-
+- [Indirect Prompt Injection 101](https://x.com/lefthanddraft/status/1920546798893998402)
+- [Lakera.ai Blog](https://www.lakera.ai/blog)
+- [Lakera.ai Guides](https://www.lakera.ai/ai-security-guides)
 ---
 
 ## 💸 HACKING AI PAID COURSES
@@ -146,6 +148,7 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 - [Jhaddix](https://x.com/Jhaddix)
 - [wunderwuzzi](https://x.com/wunderwuzzi23)
 - [Pliny the Liberator](https://x.com/elder_plinius)
+- [Wyatt Walls](https://x.com/lefthanddraft)
 
 ---
 
