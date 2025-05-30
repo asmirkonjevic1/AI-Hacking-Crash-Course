@@ -129,9 +129,19 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 - [Indirect Prompt Injection 101](https://x.com/lefthanddraft/status/1920546798893998402)
 - [Lakera.ai Blog](https://www.lakera.ai/blog)
 - [Lakera.ai Guides](https://www.lakera.ai/ai-security-guides)
+- [Joshua Saxe Newsletter](https://joshuasaxe181906.substack.com/profile/posts)
 ---
 
-## 💸 HACKING AI PAID COURSES
+## 👷LEARN PROMPT ENGINEERING
+
+- [Introduction to Prompt Engineering by OpenAI](https://academy.openai.com/public/videos/introduction-to-prompt-engineering-2025-02-13)
+- [Advanced Prompt Engineering by OpenAI](https://academy.openai.com/public/videos/advanced-prompt-engineering-2025-02-13)
+- [Antropics Prompt Engineering Interactive Tutorial](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?gid=150872633#gid=150872633)
+- [Prompting Guide 101 by Google](https://services.google.com/fh/files/misc/gemini-for-google-workspace-prompting-guide-101.pdf)
+
+---
+
+## 💸 AI HACKING PAID COURSES
 
 - [Attacking AI by Jason Haddix](https://www.arcanum-sec.com/training/attacking-ai)
 
