@@ -130,6 +130,8 @@ Here are some hands-on labs where you can practice prompt injection, jailbreaks,
 - [Lakera.ai Blog](https://www.lakera.ai/blog)
 - [Lakera.ai Guides](https://www.lakera.ai/ai-security-guides)
 - [Joshua Saxe Newsletter](https://joshuasaxe181906.substack.com/profile/posts)
+- [Defeating Prompt Injections by Design](https://arxiv.org/pdf/2503.18813)
+
 ---
 
 ## 👷LEARN PROMPT ENGINEERING
