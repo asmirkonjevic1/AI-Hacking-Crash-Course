@@ -55,6 +55,8 @@ Once you understand the basics of LLMs, it’s time to dive into the world of pr
 
 - [**We Won Google's AI Hacking Event in Tokyo - Main Takeaways (Ep.122)**](https://www.youtube.com/watch?v=T0N-H6B9r5g&t=1s)
 
+- [**Balancing Bug Bounty Freedom with Hacking Time**](https://www.youtube.com/watch?v=EzzQWffMTNk)
+
 - **Nahamcon 2025 AI Track** - COMING SOON
     - [JHADDIX, REZ0, NAHAMSEC - OPENING KEYNOTE]()
     - [XSSDOCTOR - AI ASSISTED HACKING: MASTERING THE MAIN APP]()
