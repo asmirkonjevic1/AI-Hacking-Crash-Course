@@ -57,7 +57,7 @@ Once you understand the basics of LLMs, it’s time to dive into the world of pr
 
 - [**Balancing Bug Bounty Freedom with Hacking Time**](https://www.youtube.com/watch?v=EzzQWffMTNk)
 
-- **Nahamcon 2025 AI Track** - COMING SOON
+- **Nahamcon 2025 AI Track**
     - [JHADDIX, REZ0, NAHAMSEC - OPENING KEYNOTE](https://www.youtube.com/watch?v=jT4RVAASPIs)
     - [XSSDOCTOR - AI ASSISTED HACKING: MASTERING THE MAIN APP]()
     - [WUNDERWUZZI - SPAIWARE & MORE: ADVANCED PROMPT INJECTION EXPLOITS IN LLM APPS]()
